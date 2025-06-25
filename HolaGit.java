@@ -10,6 +10,8 @@ public class HolaGit {
     System.out.println("Hola, " + nombre + "!");
     System.out.println("La suma de " + a + " + " + b + " es: " + suma);
     System.out.println("La multiplicación de " + a + " + " + b + " es: " + multiplicacion);
-
+    System.out.println ("Mathew Jose Mejia Lopez");
+    System.out.println ("2025-2159U")
+    
     }
     }
